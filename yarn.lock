@@ -3404,7 +3404,7 @@
     unfetch "^4.2.0"
     util-deprecate "^1.0.2"
 
-"@storybook/react-native@^6.0.1-beta.5":
+"@storybook/react-native@^6.0.1-beta.8":
   version "6.0.1-beta.8"
   resolved "https://registry.yarnpkg.com/@storybook/react-native/-/react-native-6.0.1-beta.8.tgz#afb80d184781900484ac6b0aa73ecd683054a41a"
   integrity sha512-+qzMhlgw+WLObej6wNFBSl30sNr6mewN4A/b3ZdN3XpP+n2yUWH7+TNMqA/P7HVqFPt/QfDFVkStyqXvyfMFpw==

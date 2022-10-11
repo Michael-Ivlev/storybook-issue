@@ -12,14 +12,14 @@ const theme = {
 
 // const props = {};
 
-// storiesOf('TestStory', module)
-//   .addDecorator((storyFn) => (
-//     <ThemeProvider theme={theme}>{storyFn()}</ThemeProvider>
-//   ))
-//   .add('Primary', () => <TestStory {...props} />);
+storiesOf('TestStory', module)
+  // .addDecorator((storyFn) => (
+  //   <ThemeProvider theme={theme}>{storyFn()}</ThemeProvider>
+  // ))
+  .add('Primary', () => <TestStory />);
 
-export default {
-  title: 'TestStory',
-  component: TestStory,
-};
-export const Text = () => <TestStory />;
+// export default {
+//   title: 'TestStory',
+//   component: TestStory,
+// };
+// export const Text = () => <TestStory />;
